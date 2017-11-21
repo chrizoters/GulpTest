@@ -3,5 +3,9 @@ Branch 2
 Branch 3
 Branch 4
 Branch 5
+<<<<<<< HEAD
 Branch 7 again
 Branch 8
+=======
+
+>>>>>>> Branch_5
