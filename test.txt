@@ -2,9 +2,6 @@ Branch 1
 Branch 2
 Branch 3
 Branch 4
-<<<<<<< HEAD
 Branch 5
 Branch 7 again
 Branch 8
-=======
->>>>>>> branch_4
